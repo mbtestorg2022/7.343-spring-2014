@@ -58,19 +58,189 @@ Grading for this course is pass / fail and will depend on student attendance, pr
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Fundamentals of learning and memory: pre- and post-synaptic mechanisms | &nbsp; |
-| 3 | Mechanisms of learning: activity-regulated genes | &nbsp; |
-| 4 | Forms of Learning and Memory I: Procedural and Episodic | &nbsp; |
-| 5 | Forms of Learning and Memory II: Non-Associative vs. Associative | &nbsp; |
-| 6 | Lab visit — role of activity-regulated genes in experience-dependent plasticity | Field Trip |
-| 7 | Forms of Learning and Memory III: Drug Addiction and Perceptual Learning | &nbsp; |
-| 8 | Learning through others' experience and observational learning | &nbsp; |
-| 9 | Synapse formation and stabilization | Written Assignment Due |
-| 10 | Experience-dependent plasticity: Visual Cortex | &nbsp; |
-| 11 | Occlusion of synaptic plasticity by learning | &nbsp; |
-| 12 | Creating false memory, erasing specific memory | &nbsp; |
-| 13 | Understanding a disease: Fragile X Syndrome | &nbsp; |
-| 14 | Oral presentations and course discussion | Oral Assignment Due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamentals of learning and memory: pre- and post-synaptic mechanisms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanisms of learning: activity-regulated genes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Forms of Learning and Memory I: Procedural and Episodic
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Forms of Learning and Memory II: Non-Associative vs. Associative
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Lab visit — role of activity-regulated genes in experience-dependent plasticity
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Forms of Learning and Memory III: Drug Addiction and Perceptual Learning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Learning through others' experience and observational learning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Synapse formation and stabilization
+{{< tdclose >}}
+{{< tdopen >}}
+Written Assignment Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Experience-dependent plasticity: Visual Cortex
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Occlusion of synaptic plasticity by learning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Creating false memory, erasing specific memory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Understanding a disease: Fragile X Syndrome
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations and course discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Assignment Due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
